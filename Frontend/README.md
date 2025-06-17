@@ -3,7 +3,7 @@
 A modern and responsive **job listing platform** where users can browse, filter, and apply to jobs. Includes **authentication**, multi-criteria filtering, **modal-based job application**, **saved jobs** with data persistence via **localStorage**.
 
  ## 🌐 **Live Demo**
-👉 [**Deployed Link**](https://your-deployment-url.com)
+👉 [**Deployed Link**]( https://github.com/Sah-Rahul/HireMe-Platform.git)
 
 ## 📌 **Key Features**
 

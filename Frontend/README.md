@@ -2,9 +2,6 @@
 
 A modern and responsive **job listing platform** where users can browse, filter, and apply to jobs. Includes **authentication**, multi-criteria filtering, **modal-based job application**, **saved jobs** with data persistence via **localStorage**.
 
- ## 🌐 **Live Demo**
-👉 [**Deployed Link**]( https://github.com/Sah-Rahul/HireMe-Platform.git)
-
 ## 📌 **Key Features**
 
 - 🔐 **Login / Signup Authentication**
@@ -30,12 +27,4 @@ A modern and responsive **job listing platform** where users can browse, filter,
 - **Frontend**: React, Tailwind CSS, React Router
 
 - **API**: JSearch API (via RapidAPI)
-- **Deployment**: Vercel / Netlify
-
-## 🚀 **Getting Started**
-
-```bash
-git clone https://github.com/yourusername/jobnest.git
-cd jobsHub
-npm install
-npm run dev
+- **Deployment**: Vercel
